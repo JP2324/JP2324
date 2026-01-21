@@ -1,16 +1,16 @@
-## Hi there 👋
+# Jainam Patel
 
-<!--
-**JP2324/JP2324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year B.Tech Student | Aspiring Full-Stack Developer  
+🛠 Turning coffee into commits (mostly bug-free)
 
-Here are some ideas to get you started:
+**Tech Stack**
+- Frontend: React, Next.js, Tailwind CSS  
+- Backend: Node.js, TypeScript, JavaScript  
+- Databases: SQL, MongoDB  
+- Tools: Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projects**
+- **Coinstream** – Real-time crypto analytics dashboard (yes, I watch the charts too)  
+- **DICOM Metadata Remover** – Python utility for medical data privacy
+
+Building projects, fixing bugs, and occasionally forgetting a semicolon.
